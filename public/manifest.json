@@ -1,0 +1,21 @@
+{
+  "name": "Plune_call",
+  "short_name": "Plune_call",
+  "description": "Real-time video conferencing, screen sharing, whiteboard & file collaboration",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0f14",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3845/3845808.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3845/3845808.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
