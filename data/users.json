@@ -1,0 +1,22 @@
+[
+  {
+    "id": "f727f74d-3c43-4f4d-b553-118e270ecb45",
+    "username": "vishva",
+    "passwordHash": "$2a$10$kaQYBigWdTT.wcjXw3GATutTyI1hhx1y3m682s.NzymdI2JZkRife"
+  },
+  {
+    "id": "cf560410-16d9-4550-acdf-efb1aa184464",
+    "username": "plune_user",
+    "passwordHash": "$2a$10$O7VQQVPnUq6jS1DSCzTyX.D3tRgyCXyZHCC3.8rq0AVI4YVQxVxyu"
+  },
+  {
+    "id": "da6ec9e2-3e4e-4503-bed9-c02f7befe020",
+    "username": "alice",
+    "passwordHash": "$2a$10$I68vWO81rZwfNZjG8d0lP.XniQpEGcSpMZTX7NLbQLTgwnhErwJU."
+  },
+  {
+    "id": "5b58408f-6e8a-4770-82e8-a72a19c88fe3",
+    "username": "bob",
+    "passwordHash": "$2a$10$mu4tXLyZSGjrEVHqq63lrutNk5Upmz3BStSE9IqlJOEaZm/Z7Z9i6"
+  }
+]
